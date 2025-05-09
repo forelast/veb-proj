@@ -11,7 +11,8 @@
   const test = ref('');
 
   function move() {
-    location.href='https://' + test.value + '.shop/health';
+    // location.href='https://' + test.value + '.shop/health';
+    location.href='https://naver.com';
   }
 </script>
 
